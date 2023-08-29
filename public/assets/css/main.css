@@ -1,0 +1,32 @@
+.input {
+  width: 5rem;
+  text-align: center;
+}
+
+.counter {
+  border-top: 1.5px solid #abaaaa;
+  border-bottom: 1.5px solid #abaaaa;
+  border-radius: 5px;
+  text-align: center;
+  width: 4rem;
+  padding: .5rem 0rem
+}
+
+.sticky-nav{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 5;
+}
+
+.m-top{
+  margin-top: 4rem;
+}
+
+.counter-div {
+  background-color: whitesmoke;
+}
+
+.modal-width{
+  width: 75%;
+}
